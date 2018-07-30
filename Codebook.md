@@ -56,4 +56,4 @@ timeBodyAccJerkMean
 timeBodyGyroMean
 timeBodyGyroJerkMean
 
-The complete list of variables of each feature vector is available in 'features.txt'
+The complete list of variables of each feature vector is available in 'features_name_type.csv'
